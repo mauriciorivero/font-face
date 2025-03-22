@@ -9,26 +9,23 @@
             url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 
-:root{
-    --color-principal: #3F7D58;
-    --color-secundario: #EFEFEF;
-    --color-auxiliar-1: #EF9651;
-    --color-auxiliar-2: #EC5228;
 
-    --ppal-font: "Montserrat", sans-serif;
-}
 
 
 body{
-    background-color: var(--color-principal);
+    background-color: var(--color-primario1);
 }
 
 h1{
-    color: var(--color-auxiliar-1);
-    font-family: var(--ppal-font);
-    font-weight: 300;
+    color: var(--color-base2);
+    font-family: var(--tipografiaprincipal);
+    margin-bottom: var(--espacio-abajo-tiutulo);
 }
 
 h2{
+
+}
+
+.titulo1{   
 
 }

@@ -1,0 +1,10 @@
+:root{
+    --color-primario1: #022859;
+    --color-primario2: #0468BF;
+    --color-secundario1: #012340;
+    --color-base1: #593B02;
+    --color-base2: #F2BB77;
+    --tipografiaprincipal: 'Montserrat', sans-serif;
+    --tipografiaprincipal-peso: 100;
+    --espacio-abajo-tiutulo: 50px;
+}
